@@ -1,0 +1,227 @@
+[
+    {
+        "configId": 1,
+        "AMAPKCCLLHM": 100002,
+        "MNFKPAGELCD": 1,
+        "serverBuffId": 500301,
+        "IIFOPFLCBLC": [
+            1000021
+        ],
+        "IFDOFNHMDKP": 2271439969,
+        "BALIJKKJPJL": 3599237299,
+        "AEEBJMBFOMP": 1068994669,
+        "groupId": 1,
+        "LJFIAMDIAAH": 1,
+        "iconPath": "UI_Skill_OR_Icon1"
+    },
+    {
+        "configId": 2,
+        "AMAPKCCLLHM": 100002,
+        "MNFKPAGELCD": 2,
+        "serverBuffId": 500302,
+        "IIFOPFLCBLC": [
+            1000022
+        ],
+        "IFDOFNHMDKP": 2707465369,
+        "BALIJKKJPJL": 556464043,
+        "AEEBJMBFOMP": 245718989,
+        "groupId": 2,
+        "LJFIAMDIAAH": 1,
+        "iconPath": "UI_Skill_OR_Icon3"
+    },
+    {
+        "configId": 3,
+        "AMAPKCCLLHM": 100002,
+        "MNFKPAGELCD": 3,
+        "serverBuffId": 500303,
+        "IIFOPFLCBLC": [
+            1000023
+        ],
+        "IFDOFNHMDKP": 3352197417,
+        "BALIJKKJPJL": 2507971243,
+        "AEEBJMBFOMP": 906778093,
+        "groupId": 1,
+        "LJFIAMDIAAH": 1,
+        "iconPath": "UI_Skill_OR_Icon4"
+    },
+    {
+        "configId": 4,
+        "AMAPKCCLLHM": 100002,
+        "MNFKPAGELCD": 4,
+        "serverBuffId": 500304,
+        "IIFOPFLCBLC": [
+            1000024
+        ],
+        "IFDOFNHMDKP": 1597063017,
+        "BALIJKKJPJL": 3677334179,
+        "AEEBJMBFOMP": 2381920869,
+        "groupId": 3,
+        "LJFIAMDIAAH": 1,
+        "iconPath": "UI_Skill_OR_Icon6"
+    },
+    {
+        "configId": 5,
+        "AMAPKCCLLHM": 100002,
+        "MNFKPAGELCD": 5,
+        "serverBuffId": 500305,
+        "IIFOPFLCBLC": [
+            1000025
+        ],
+        "IFDOFNHMDKP": 3628282641,
+        "BALIJKKJPJL": 4190599131,
+        "AEEBJMBFOMP": 864689101,
+        "groupId": 1,
+        "LJFIAMDIAAH": 1,
+        "iconPath": "UI_Skill_OR_Icon2"
+    },
+    {
+        "configId": 6,
+        "AMAPKCCLLHM": 100002,
+        "MNFKPAGELCD": 6,
+        "serverBuffId": 500307,
+        "IIFOPFLCBLC": [
+            1000027
+        ],
+        "IFDOFNHMDKP": 2890502785,
+        "BALIJKKJPJL": 908945867,
+        "AEEBJMBFOMP": 2736983877,
+        "groupId": 1,
+        "LJFIAMDIAAH": 2,
+        "iconPath": "UI_Skill_OR_Icon1"
+    },
+    {
+        "configId": 7,
+        "AMAPKCCLLHM": 100002,
+        "MNFKPAGELCD": 7,
+        "serverBuffId": 500306,
+        "IIFOPFLCBLC": [
+            1000026
+        ],
+        "IFDOFNHMDKP": 1771758561,
+        "BALIJKKJPJL": 2285319083,
+        "AEEBJMBFOMP": 3653891109,
+        "groupId": 3,
+        "LJFIAMDIAAH": 2,
+        "iconPath": "UI_Skill_OR_Icon6"
+    },
+    {
+        "configId": 8,
+        "AMAPKCCLLHM": 100002,
+        "MNFKPAGELCD": 8,
+        "serverBuffId": 500308,
+        "IIFOPFLCBLC": [
+            1000028
+        ],
+        "IFDOFNHMDKP": 1686237393,
+        "BALIJKKJPJL": 2369553707,
+        "AEEBJMBFOMP": 3744532773,
+        "groupId": 1,
+        "LJFIAMDIAAH": 2,
+        "iconPath": "UI_Skill_OR_Icon4"
+    },
+    {
+        "configId": 9,
+        "AMAPKCCLLHM": 100002,
+        "MNFKPAGELCD": 9,
+        "serverBuffId": 500309,
+        "IIFOPFLCBLC": [
+            1000029
+        ],
+        "IFDOFNHMDKP": 858829921,
+        "BALIJKKJPJL": 2834402475,
+        "AEEBJMBFOMP": 4048653405,
+        "groupId": 3,
+        "LJFIAMDIAAH": 2,
+        "iconPath": "UI_Skill_OR_Icon6"
+    },
+    {
+        "configId": 10,
+        "AMAPKCCLLHM": 100002,
+        "MNFKPAGELCD": 10,
+        "serverBuffId": 500310,
+        "IIFOPFLCBLC": [
+            1000030
+        ],
+        "IFDOFNHMDKP": 1164351753,
+        "BALIJKKJPJL": 3098750811,
+        "AEEBJMBFOMP": 3494132189,
+        "groupId": 4,
+        "LJFIAMDIAAH": 2,
+        "iconPath": "UI_Skill_OR_Icon5"
+    },
+    {
+        "configId": 11,
+        "AMAPKCCLLHM": 100002,
+        "MNFKPAGELCD": 11,
+        "serverBuffId": 500311,
+        "IIFOPFLCBLC": [
+            1000031
+        ],
+        "IFDOFNHMDKP": 3286669585,
+        "BALIJKKJPJL": 1363894547,
+        "AEEBJMBFOMP": 2619193701,
+        "groupId": 1,
+        "LJFIAMDIAAH": 2,
+        "iconPath": "UI_Skill_OR_Icon2"
+    },
+    {
+        "configId": 12,
+        "AMAPKCCLLHM": 100002,
+        "MNFKPAGELCD": 12,
+        "serverBuffId": 500313,
+        "IIFOPFLCBLC": [
+            1000033
+        ],
+        "IFDOFNHMDKP": 1836840201,
+        "BALIJKKJPJL": 58250851,
+        "AEEBJMBFOMP": 1563220285,
+        "groupId": 1,
+        "LJFIAMDIAAH": 3,
+        "iconPath": "UI_Skill_OR_Icon1"
+    },
+    {
+        "configId": 13,
+        "AMAPKCCLLHM": 100002,
+        "MNFKPAGELCD": 13,
+        "serverBuffId": 500312,
+        "IIFOPFLCBLC": [
+            1000032
+        ],
+        "IFDOFNHMDKP": 3039576801,
+        "BALIJKKJPJL": 949609747,
+        "AEEBJMBFOMP": 485036565,
+        "groupId": 4,
+        "LJFIAMDIAAH": 3,
+        "iconPath": "UI_Skill_OR_Icon5"
+    },
+    {
+        "configId": 14,
+        "AMAPKCCLLHM": 100002,
+        "MNFKPAGELCD": 14,
+        "serverBuffId": 500314,
+        "IIFOPFLCBLC": [
+            1000034
+        ],
+        "IFDOFNHMDKP": 3038389553,
+        "BALIJKKJPJL": 3970354419,
+        "AEEBJMBFOMP": 3831392637,
+        "groupId": 1,
+        "LJFIAMDIAAH": 3,
+        "iconPath": "UI_Skill_OR_Icon4"
+    },
+    {
+        "configId": 15,
+        "AMAPKCCLLHM": 100002,
+        "MNFKPAGELCD": 15,
+        "serverBuffId": 500315,
+        "IIFOPFLCBLC": [
+            1000035
+        ],
+        "IFDOFNHMDKP": 1213329721,
+        "BALIJKKJPJL": 572095083,
+        "AEEBJMBFOMP": 3129295333,
+        "groupId": 4,
+        "LJFIAMDIAAH": 3,
+        "iconPath": "UI_Skill_OR_Icon5"
+    }
+]

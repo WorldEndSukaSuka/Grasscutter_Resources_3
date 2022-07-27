@@ -1,0 +1,38 @@
+[
+    {
+        "ONPLNAEDMNJ": 372501,
+        "HCLLEHHNBHF": "HOME_FIELD_DRY",
+        "NNBINLANIHH": 77215014,
+        "GJPOLPPAJOF": 4,
+        "IPPCAKKMPMM": [
+            77215013,
+            77215013,
+            77215013,
+            77215013
+        ]
+    },
+    {
+        "ONPLNAEDMNJ": 372502,
+        "HCLLEHHNBHF": "HOME_FIELD_FLOWER",
+        "NNBINLANIHH": 77215016,
+        "GJPOLPPAJOF": 4,
+        "IPPCAKKMPMM": [
+            77215015,
+            77215015,
+            77215015,
+            77215015
+        ]
+    },
+    {
+        "ONPLNAEDMNJ": 372503,
+        "HCLLEHHNBHF": "HOME_FIELD_WATER",
+        "NNBINLANIHH": 77215018,
+        "GJPOLPPAJOF": 4,
+        "IPPCAKKMPMM": [
+            77215017,
+            77215017,
+            77215017,
+            77215017
+        ]
+    }
+]

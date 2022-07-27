@@ -1,0 +1,985 @@
+{
+    "Weapon_Bow_DamageUpToEnemy": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_DamageUpToEnemy"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_DamageUpToEnemy",
+            "GAEKMDGCHJI": "Rate",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_DamageUpHitHeadBox": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_DamageUpHitHeadBox"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_DamageUpHitHeadBox",
+            "GAEKMDGCHJI": "Rate",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_HealAmountHPonEnemyKilled": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_HealAmountHPonEnemyKilled"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_HealAmountHPonEnemyKilled",
+            "GAEKMDGCHJI": "HealAmount",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_RiseDMGWithinTime": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_RiseDMGWithinTime"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseDMGWithinTime",
+            "GAEKMDGCHJI": "Time",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseDMGWithinTime",
+            "GAEKMDGCHJI": "AttackUpRatio",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseDMGWithinTime",
+            "GAEKMDGCHJI": "AttackDownRatio",
+            "NEJDLLPMCPM": "%3",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_HeavyCritical": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_HeavyCritical"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_HeavyCritical",
+            "GAEKMDGCHJI": "bonusCriticalDamage",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_MachineKiller": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_MachineKiller"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_MachineKiller",
+            "GAEKMDGCHJI": "Rate",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_GenerateBallWhenCritic": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_GenerateBallWhenCritic"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_GenerateBallWhenCritic",
+            "GAEKMDGCHJI": "Rate",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_GenerateBallWhenCritic",
+            "GAEKMDGCHJI": "CDTime",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_RiseElementalSkillDMG": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_RiseElementalSkillDMG"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseElementalSkillDMG",
+            "GAEKMDGCHJI": "RiseElementalSkill",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_ResetCDWhenSkillHit": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_ResetCDWhenSkillHit"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_ResetCDWhenSkillHit",
+            "GAEKMDGCHJI": "Rate",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_ResetCDWhenSkillHit",
+            "GAEKMDGCHJI": "CDTime",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_RiseDMGonBranchAttack": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_RiseDMGonBranchAttack"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseDMGonBranchAttack",
+            "GAEKMDGCHJI": "UpDmgRate",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseDMGonBranchAttack",
+            "GAEKMDGCHJI": "CDTime",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_CritUpWhenHitNoCrit": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_CritUpWhenHitNoCrit"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_CritUpWhenHitNoCrit",
+            "GAEKMDGCHJI": "Rate",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_RiseNormalFallExtra": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_RiseNormalFallExtra"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseNormalFallExtra",
+            "GAEKMDGCHJI": "RiseNormalAttack",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseNormalFallExtra",
+            "GAEKMDGCHJI": "FallExtraAttack",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_AttackGainSPDAKTBuff": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_AttackGainSPDAKTBuff"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_AttackGainSPDAKTBuff",
+            "GAEKMDGCHJI": "MoveSpeedRatio",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_AttackGainSPDAKTBuff",
+            "GAEKMDGCHJI": "AttackRatio",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_AttackGainSPDAKTBuff",
+            "GAEKMDGCHJI": "Time",
+            "NEJDLLPMCPM": "%3",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_AttackGainAKTSPDBuff": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_AttackGainAKTSPDBuff"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_AttackGainAKTSPDBuff",
+            "GAEKMDGCHJI": "AttackRatio",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_AttackGainAKTSPDBuff",
+            "GAEKMDGCHJI": "OverallSpeedRatio",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_AttackGainAKTSPDBuff",
+            "GAEKMDGCHJI": "CDTime",
+            "NEJDLLPMCPM": "%3",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_FallNormalRiseExtra": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_FallNormalRiseExtra"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_FallNormalRiseExtra",
+            "GAEKMDGCHJI": "RiseExtraAttack",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_FallNormalRiseExtra",
+            "GAEKMDGCHJI": "FallNormalAttack",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_Blackrock": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_Blackrock"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Blackrock",
+            "GAEKMDGCHJI": "Rate",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Blackrock",
+            "GAEKMDGCHJI": "Dua",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_AttractField": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_AttractField"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_AttractField",
+            "GAEKMDGCHJI": "Chance",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_AttractField",
+            "GAEKMDGCHJI": "Damage",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_AttractField",
+            "GAEKMDGCHJI": "Interval",
+            "NEJDLLPMCPM": "%3",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_AttractField",
+            "GAEKMDGCHJI": "Time",
+            "NEJDLLPMCPM": "%4",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_AttractField",
+            "GAEKMDGCHJI": "CDTime",
+            "NEJDLLPMCPM": "%5",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_AttractField",
+            "GAEKMDGCHJI": "Damage",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_AttractField",
+            "GAEKMDGCHJI": "Interval",
+            "NEJDLLPMCPM": "%3",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_AttractField",
+            "GAEKMDGCHJI": "Time",
+            "NEJDLLPMCPM": "%4",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_Outlaw": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_Outlaw"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Outlaw",
+            "GAEKMDGCHJI": "Rate",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Outlaw",
+            "GAEKMDGCHJI": "Timer",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_RangeAttackOnExtraAttackLanded": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_RangeAttackOnExtraAttackLanded"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RangeAttackOnExtraAttackLanded",
+            "GAEKMDGCHJI": "AtkRate",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RangeAttackOnExtraAttackLanded",
+            "GAEKMDGCHJI": "CDTime",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_NormalAttackAndElementalArt": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_NormalAttackAndElementalArt"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_NormalAttackAndElementalArt",
+            "GAEKMDGCHJI": "Rate_1",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_NormalAttackAndElementalArt",
+            "GAEKMDGCHJI": "Duration_1",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_NormalAttackAndElementalArt",
+            "GAEKMDGCHJI": "Rate_2",
+            "NEJDLLPMCPM": "%3",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_NormalAttackAndElementalArt",
+            "GAEKMDGCHJI": "Duration_2",
+            "NEJDLLPMCPM": "%4",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_Fleurfair": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_Fleurfair"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Fleurfair",
+            "GAEKMDGCHJI": "AtkRate",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Fleurfair",
+            "GAEKMDGCHJI": "Dura",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_Predator": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_Predator"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Predator",
+            "GAEKMDGCHJI": "DamageUp",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Predator",
+            "GAEKMDGCHJI": "Dura",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Predator",
+            "GAEKMDGCHJI": "Atk",
+            "NEJDLLPMCPM": "%3",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_RangeAttackOnAttackLanded": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_RangeAttackOnAttackLanded"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RangeAttackOnAttackLanded",
+            "GAEKMDGCHJI": "CritHurt",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RangeAttackOnAttackLanded",
+            "GAEKMDGCHJI": "RangeAttackChance",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RangeAttackOnAttackLanded",
+            "GAEKMDGCHJI": "Damage",
+            "NEJDLLPMCPM": "%3",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RangeAttackOnAttackLanded",
+            "GAEKMDGCHJI": "CDTime",
+            "NEJDLLPMCPM": "%4",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_RiseDMGWithTime": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_RiseDMGWithTime"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseDMGWithTime",
+            "GAEKMDGCHJI": "RiseAttackBase",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseDMGWithTime",
+            "GAEKMDGCHJI": "RiseAttackPerStage",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_EnergyPoem": [],
+    "Weapon_Bow_Widsith": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_Widsith"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Widsith",
+            "GAEKMDGCHJI": "TriggerCD",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Widsith",
+            "GAEKMDGCHJI": "Dura",
+            "NEJDLLPMCPM": "%3",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Widsith",
+            "GAEKMDGCHJI": "BowBuff",
+            "NEJDLLPMCPM": "%4",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Widsith",
+            "GAEKMDGCHJI": "CommonBuff",
+            "NEJDLLPMCPM": "%5",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Widsith",
+            "GAEKMDGCHJI": "CDTime",
+            "NEJDLLPMCPM": "%6",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_Kunwu_DamageUpWithShield": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_Kunwu_DamageUpWithShield"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Kunwu_DamageUpWithShield",
+            "GAEKMDGCHJI": "Shield_Up",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Kunwu_DamageUpWithShield",
+            "GAEKMDGCHJI": "Dmg_Rate",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Kunwu_DamageUpWithShield",
+            "GAEKMDGCHJI": "Timer",
+            "NEJDLLPMCPM": "%3",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_Morax_HpToAtk": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_Morax_HpToAtk"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Morax_HpToAtk",
+            "GAEKMDGCHJI": "Hp_Rate",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Morax_HpToAtk",
+            "GAEKMDGCHJI": "HptoAtk_Factor",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_RiseElementDMGWhenEnergyMax_0": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_RiseElementDMGWhenEnergyMax"
+        }
+    ],
+    "Weapon_Bow_RiseElementDMGWhenEnergyMax_1": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseElementDMGWhenEnergyMax",
+            "GAEKMDGCHJI": "EleDmgUpRate",
+            "NEJDLLPMCPM": 0.05000000074505806,
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_RiseElementDMGWhenEnergyMax_2": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseElementDMGWhenEnergyMax",
+            "GAEKMDGCHJI": "EleDmgUpRate",
+            "NEJDLLPMCPM": 0.05000000074505806,
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_RiseElementDMGWhenEnergyMax_3": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseElementDMGWhenEnergyMax",
+            "GAEKMDGCHJI": "EleDmgUpRate",
+            "NEJDLLPMCPM": 0.05000000074505806,
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_RiseElementDMGWhenEnergyMax_4": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseElementDMGWhenEnergyMax",
+            "GAEKMDGCHJI": "EleDmgUpRate",
+            "NEJDLLPMCPM": 0.05000000074505806,
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_RiseUltimateSkillDMGonAvatarIn_0": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_RiseUltimateSkillDMGonAvatarIn"
+        }
+    ],
+    "Weapon_Bow_RiseUltimateSkillDMGonAvatarIn_1": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseUltimateSkillDMGonAvatarIn",
+            "GAEKMDGCHJI": "UpDmgRate",
+            "NEJDLLPMCPM": 0.05000000074505806,
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_RiseUltimateSkillDMGonAvatarIn_2": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseUltimateSkillDMGonAvatarIn",
+            "GAEKMDGCHJI": "UpDmgRate",
+            "NEJDLLPMCPM": 0.05000000074505806,
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_RiseUltimateSkillDMGonAvatarIn_3": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseUltimateSkillDMGonAvatarIn",
+            "GAEKMDGCHJI": "UpDmgRate",
+            "NEJDLLPMCPM": 0.05000000074505806,
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_RiseUltimateSkillDMGonAvatarIn_4": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_RiseUltimateSkillDMGonAvatarIn",
+            "GAEKMDGCHJI": "UpDmgRate",
+            "NEJDLLPMCPM": 0.05000000074505806,
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_ReduceEnemySubHurtonBranchAttack_0": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_ReduceEnemySubHurtonBranchAttack"
+        }
+    ],
+    "Weapon_Bow_ReduceEnemySubHurtonBranchAttack_1": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_ReduceEnemySubHurtonBranchAttack",
+            "GAEKMDGCHJI": "SubHurtDownRate",
+            "NEJDLLPMCPM": -0.05000000074505806,
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_ReduceEnemySubHurtonBranchAttack_2": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_ReduceEnemySubHurtonBranchAttack",
+            "GAEKMDGCHJI": "SubHurtDownRate",
+            "NEJDLLPMCPM": -0.05000000074505806,
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_ReduceEnemySubHurtonBranchAttack_3": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_ReduceEnemySubHurtonBranchAttack",
+            "GAEKMDGCHJI": "SubHurtDownRate",
+            "NEJDLLPMCPM": -0.05000000074505806,
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_ReduceEnemySubHurtonBranchAttack_4": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_ReduceEnemySubHurtonBranchAttack",
+            "GAEKMDGCHJI": "SubHurtDownRate",
+            "NEJDLLPMCPM": -0.05000000074505806,
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_AttacktUpAfterReaction_0": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_AttacktUpAfterReaction"
+        }
+    ],
+    "Weapon_Bow_AttacktUpAfterReaction_1": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_AttacktUpAfterReaction",
+            "GAEKMDGCHJI": "Rate",
+            "NEJDLLPMCPM": 0.05000000074505806,
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_AttacktUpAfterReaction_2": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_AttacktUpAfterReaction",
+            "GAEKMDGCHJI": "Rate",
+            "NEJDLLPMCPM": 0.05000000074505806,
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_AttacktUpAfterReaction_3": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_AttacktUpAfterReaction",
+            "GAEKMDGCHJI": "Rate",
+            "NEJDLLPMCPM": 0.05000000074505806,
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_AttacktUpAfterReaction_4": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_AttacktUpAfterReaction",
+            "GAEKMDGCHJI": "Rate",
+            "NEJDLLPMCPM": 0.05000000074505806,
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_Bakufu": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_Bakufu"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Bakufu",
+            "GAEKMDGCHJI": "NormalUp",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Bakufu",
+            "GAEKMDGCHJI": "ExtraUp",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Bakufu",
+            "GAEKMDGCHJI": "Rate",
+            "NEJDLLPMCPM": "%3",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_Maria": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_Maria"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Maria",
+            "GAEKMDGCHJI": "Ratio",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Maria",
+            "GAEKMDGCHJI": "Max_Value",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_Narukami": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_Narukami"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Narukami",
+            "GAEKMDGCHJI": "Rate1",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Narukami",
+            "GAEKMDGCHJI": "Rate2",
+            "NEJDLLPMCPM": "%3",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Narukami",
+            "GAEKMDGCHJI": "Rate3",
+            "NEJDLLPMCPM": "%4",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Narukami",
+            "GAEKMDGCHJI": "Dura2",
+            "NEJDLLPMCPM": "%5",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Narukami",
+            "GAEKMDGCHJI": "Dura3",
+            "NEJDLLPMCPM": "%6",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_Worldbane": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_Worldbane"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Worldbane",
+            "GAEKMDGCHJI": "Passive_Rate",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Worldbane",
+            "GAEKMDGCHJI": "Time",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Worldbane",
+            "GAEKMDGCHJI": "Rate1",
+            "NEJDLLPMCPM": "%3",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Worldbane",
+            "GAEKMDGCHJI": "Rate2",
+            "NEJDLLPMCPM": "%4",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Worldbane",
+            "GAEKMDGCHJI": "Rate3",
+            "NEJDLLPMCPM": "%5",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Worldbane",
+            "GAEKMDGCHJI": "Rate4",
+            "NEJDLLPMCPM": "%6",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_Kirin": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_Kirin"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Kirin",
+            "GAEKMDGCHJI": "Percentage",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Kirin",
+            "GAEKMDGCHJI": "Interval",
+            "NEJDLLPMCPM": "%3",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_Kirin",
+            "GAEKMDGCHJI": "Dura",
+            "NEJDLLPMCPM": "%4",
+            "JIPGCCEJFPC": 0.0
+        }
+    ],
+    "Weapon_Bow_FallenSun": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Weapon_Bow_FallenSun"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_FallenSun",
+            "GAEKMDGCHJI": "Dura",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_FallenSun",
+            "GAEKMDGCHJI": "Buff1",
+            "NEJDLLPMCPM": "%2",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_FallenSun",
+            "GAEKMDGCHJI": "Buff2",
+            "NEJDLLPMCPM": "%3",
+            "JIPGCCEJFPC": 0.0
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Weapon_Bow_FallenSun",
+            "GAEKMDGCHJI": "Buff3",
+            "NEJDLLPMCPM": "%4",
+            "JIPGCCEJFPC": 0.0
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Relic_CompareHPEnhanceCrit": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Relic_CompareHPEnhanceCrit"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Relic_CompareHPEnhanceCrit",
+            "GAEKMDGCHJI": "Crit",
+            "NEJDLLPMCPM": "%1"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Relic_CompareHPEnhanceCrit",
+            "GAEKMDGCHJI": "CritHurt",
+            "NEJDLLPMCPM": "%2"
+        }
+    ],
+    "Relic_DamageUpAgainstIceAndFrozen": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Relic_DamageUpAgainstIceAndFrozen"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Relic_DamageUpAgainstIceAndFrozen",
+            "GAEKMDGCHJI": "Rate",
+            "NEJDLLPMCPM": "%1",
+            "JIPGCCEJFPC": 0.0
+        }
+    ]
+}

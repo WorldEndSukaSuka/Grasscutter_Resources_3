@@ -1,0 +1,42 @@
+[
+    {
+        "elementType": "Fire",
+        "elementIcon": "UI_Buff_Element_Fire",
+        "rank": 1
+    },
+    {
+        "elementType": "Water",
+        "elementIcon": "UI_Buff_Element_Water",
+        "rank": 2
+    },
+    {
+        "elementType": "Grass",
+        "elementIcon": "UI_Buff_Element_Grass",
+        "rank": 3
+    },
+    {
+        "elementType": "Electric",
+        "elementIcon": "UI_Buff_Element_Elect",
+        "rank": 4
+    },
+    {
+        "elementType": "Wind",
+        "elementIcon": "UI_Buff_Element_Wind",
+        "rank": 5
+    },
+    {
+        "elementType": "Frozen",
+        "elementIcon": "UI_Buff_Element_Frost",
+        "rank": 6
+    },
+    {
+        "elementType": "Ice",
+        "elementIcon": "UI_Buff_Element_Frost",
+        "rank": 7
+    },
+    {
+        "elementType": "Rock",
+        "elementIcon": "UI_Buff_Element_Roach",
+        "rank": 8
+    }
+]

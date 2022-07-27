@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "offeringId": 2,
+        "HCHJCHEBOML": 20
+    },
+    {
+        "id": 2,
+        "offeringId": 2,
+        "HCHJCHEBOML": 30
+    },
+    {
+        "id": 3,
+        "offeringId": 2,
+        "HCHJCHEBOML": 40
+    },
+    {
+        "id": 4,
+        "offeringId": 2,
+        "HCHJCHEBOML": 50
+    }
+]

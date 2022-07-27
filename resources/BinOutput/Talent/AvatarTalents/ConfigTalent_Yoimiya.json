@@ -1,0 +1,254 @@
+{
+    "Yoimiya_SkillUpgrade_1": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+            "GAEKMDGCHJI": "NormalAttack_01",
+            "NEJDLLPMCPM": "%1"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+            "GAEKMDGCHJI": "NormalAttack_02",
+            "NEJDLLPMCPM": "%2"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+            "GAEKMDGCHJI": "NormalAttack_03",
+            "NEJDLLPMCPM": "%3"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+            "GAEKMDGCHJI": "NormalAttack_04",
+            "NEJDLLPMCPM": "%4"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+            "GAEKMDGCHJI": "NormalAttack_05",
+            "NEJDLLPMCPM": "%5"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Bullet_Yoimiya_Arrow_NoFire_Material",
+            "GAEKMDGCHJI": "NoFireDamage",
+            "NEJDLLPMCPM": "%6"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Bullet_Yoimiya_Arrow_WithFire_Material",
+            "GAEKMDGCHJI": "NoFireDamage",
+            "NEJDLLPMCPM": "%6"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Bullet_Yoimiya_Arrow_WithFire_Material",
+            "GAEKMDGCHJI": "WithFireDamage",
+            "NEJDLLPMCPM": "%7"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Bullet_Yoimiya_GoldFish_Material",
+            "GAEKMDGCHJI": "GoldFish_Damage",
+            "NEJDLLPMCPM": "%8"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_FallingAnthem",
+            "GAEKMDGCHJI": "FallingAnthem_Normal_Loop_Damage",
+            "NEJDLLPMCPM": "%9"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_FallingAnthem",
+            "GAEKMDGCHJI": "FallingAnthem_Normal_Rank_1_Damage",
+            "NEJDLLPMCPM": "%10"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_FallingAnthem",
+            "GAEKMDGCHJI": "FallingAnthem_Normal_Rank_2_Damage",
+            "NEJDLLPMCPM": "%11"
+        }
+    ],
+    "Yoimiya_SkillUpgrade_2": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+            "GAEKMDGCHJI": "ElementalArtRaito",
+            "NEJDLLPMCPM": "%1"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_ElementalArt",
+            "GAEKMDGCHJI": "Skill_Dura",
+            "NEJDLLPMCPM": "%2"
+        }
+    ],
+    "Yoimiya_SkillUpgrade_3": [
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Bullet_Yoimiya_ElementalBurst_Material",
+            "GAEKMDGCHJI": "ElementalBurst_Damage",
+            "NEJDLLPMCPM": "%1"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_ElementalBurst_SetTag",
+            "GAEKMDGCHJI": "Damage_Perhit",
+            "NEJDLLPMCPM": "%2"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_ElementalBurst_SetTag",
+            "GAEKMDGCHJI": "Damage_Interval",
+            "NEJDLLPMCPM": "%3"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_ElementalBurst_SetTag",
+            "GAEKMDGCHJI": "Duration_Max",
+            "NEJDLLPMCPM": "%4"
+        }
+    ],
+    "Yoimiya_Constellation_1": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Avatar_Yoimiya_Talent_KillAndAdd"
+        },
+        {
+            "$type": "UnlockTalentParam",
+            "abilityName": "Avatar_Yoimiya_ElementalBurst_SetTag",
+            "GFIJPNMCOGJ": "Yoimiya_Talent_1"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_ElementalBurst_SetTag",
+            "GAEKMDGCHJI": "Duration_Max",
+            "NEJDLLPMCPM": "%1"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_Talent_KillAndAdd",
+            "GAEKMDGCHJI": "Rate",
+            "NEJDLLPMCPM": "%2"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_Talent_KillAndAdd",
+            "GAEKMDGCHJI": "Time",
+            "NEJDLLPMCPM": "%3"
+        }
+    ],
+    "Yoimiya_Constellation_2": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Avatar_Yoimiya_Talent_FireUpWhenCritic"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_Talent_FireUpWhenCritic",
+            "GAEKMDGCHJI": "FireUp",
+            "NEJDLLPMCPM": "%1"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_Talent_FireUpWhenCritic",
+            "GAEKMDGCHJI": "Dura",
+            "NEJDLLPMCPM": "%2"
+        }
+    ],
+    "Yoimiya_Constellation_3": [
+        {
+            "$type": "AddTalentExtraLevel",
+            "GICDOCFMKHF": "AvatarSkill",
+            "OJOFFKLNAHN": 2,
+            "OOCOLBNBEHL": 3
+        }
+    ],
+    "Yoimiya_Constellation_4": [
+        {
+            "$type": "UnlockTalentParam",
+            "abilityName": "Avatar_Yoimiya_ElementalBurst_SetTag",
+            "GFIJPNMCOGJ": "Yoimiya_Talent_4"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_ElementalBurst_SetTag",
+            "GAEKMDGCHJI": "CdDelta",
+            "NEJDLLPMCPM": "-%1"
+        }
+    ],
+    "Yoimiya_Constellation_5": [
+        {
+            "$type": "AddTalentExtraLevel",
+            "GICDOCFMKHF": "AvatarSkill",
+            "OJOFFKLNAHN": 9,
+            "OOCOLBNBEHL": 3
+        }
+    ],
+    "Yoimiya_Constellation_6": [
+        {
+            "$type": "AddAbility",
+            "abilityName": "Avatar_Yoimiya_Talent_ExtraBullet"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_Talent_ExtraBullet",
+            "GAEKMDGCHJI": "Chance",
+            "NEJDLLPMCPM": "%1"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Bullet_Yoimiya_NormalAttack_Handler",
+            "GAEKMDGCHJI": "TalentArrowRatio",
+            "NEJDLLPMCPM": "%2"
+        }
+    ],
+    "Yoimiya_PermanentSkill_1": [
+        {
+            "$type": "UnlockTalentParam",
+            "abilityName": "Avatar_Yoimiya_ElementalArt",
+            "GFIJPNMCOGJ": "Yoimiya_PermanentSkill_1"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_ElementalArt",
+            "GAEKMDGCHJI": "ElementalArt_Buff",
+            "NEJDLLPMCPM": "%1"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_ElementalArt",
+            "GAEKMDGCHJI": "PermanentSkill_Dura",
+            "NEJDLLPMCPM": "%2"
+        }
+    ],
+    "Yoimiya_PermanentSkill_2": [
+        {
+            "$type": "UnlockTalentParam",
+            "abilityName": "Avatar_Yoimiya_ElementalBurst_Camera",
+            "GFIJPNMCOGJ": "Yoimiya_PermanentSkill_2"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_ElementalBurst_Camera",
+            "GAEKMDGCHJI": "Base_Buff",
+            "NEJDLLPMCPM": "%1"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_ElementalBurst_Camera",
+            "GAEKMDGCHJI": "Stack_Buff",
+            "NEJDLLPMCPM": "%2"
+        },
+        {
+            "$type": "ModifyAbility",
+            "abilityName": "Avatar_Yoimiya_ElementalBurst_Camera",
+            "GAEKMDGCHJI": "Dura",
+            "NEJDLLPMCPM": "%3"
+        }
+    ]
+}
