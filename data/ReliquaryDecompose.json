@@ -1,0 +1,107 @@
+[
+    {
+        "configId": 1,
+        "comment": "Gladiator",//角斗
+        "items": [75514,75524,75534,75544,75554]
+    },
+    {
+        "configId": 2,
+        "comment": "Wanderer's Troupe",//乐团
+        "items": [77514,77524, 77534,77544,77554]
+    },
+    {
+        "configId": 3,
+        "comment": "Bloodstained",//染血
+        "items": [82514,82524,82534,82544,82554]
+    },
+    {
+        "configId": 4,
+        "comment": "Noblesse",//宗室
+        "items": [81514,81524,81534,81544,81554]
+    },
+	{
+	    "configId": 5,
+	    "comment": "rulei",//如雷
+	    "items": [79514,79524,79534,79544,79554]
+	},
+	{
+	    "configId": 6,
+	    "comment": "Pinglei",//平雷
+	    "items": [72514,72524,72534,72544,72554]
+	},
+	{
+	    "configId": 7,
+	    "comment": "Wind jacket",//风套
+	    "items": [76514,76524,76534,76544,76554]
+	},
+	{
+	    "configId": 8,
+	    "comment": "girl",//少女
+	    "items": [74514,74524,74534,74544,74554]
+	},
+	{
+	    "configId": 9,
+	    "comment": "Pan rock",//磐岩
+	    "items": [88514,88524,88534,88544,88554]
+	},
+	{
+	    "configId": 10,
+	    "comment": "nifei",//逆飞
+	    "items": [88514,88524,88534,88544,88554]
+	},
+	{
+		"configId": 11,
+		"comment": "Witch",//魔女
+		"items": [80514,80524,80534,80544,80554]
+	},
+	{
+	    "configId": 12,
+	    "comment": "Cross the fire",//渡火
+	    "items": [73514,73524,73534,73544,73554]
+	},
+	{
+		"configId": 13,
+		"comment": "Ice jacket",//冰套
+		"items": [71514,71524,71534,71544,71554]
+	},
+	{
+		"configId": 14,
+		"comment": "Sinking heart",//沉沦之心
+		"items": [90514,90524,90534,90544,90554]
+	},
+	{
+	    "configId": 15,
+	    "comment": "Recall",//追忆
+	    "items": [93514,93524,93534,93544,93554]
+	},
+	{
+	    "configId": 16,
+	    "comment": "Cinnabar",//辰砂
+	    "items": [97514,97524,97534,97544,97554]
+	},
+	{
+	    "configId": 17,
+	    "comment": "Huaguan",//华馆
+	    "items": [97514,95524,95534,95544,95554]
+	},
+    {
+        "configId": 18,
+        "comment": "pale",//苍白
+        "items": [92514,92524,92534,92544,92554]
+    }, 
+	{
+	    "configId": 19,
+	    "comment": "Qianyan",//千岩
+	    "items": [91514,91524,91534,91544,91554]
+	},  
+	{
+		"configId": 20,
+		"comment": "Residual sound",//来歆余响
+		"items": [98514,98524,98534,98544,98554]
+	},
+	{
+		"configId": 21,
+		"comment": "Hai ran",//海染
+		"items": [96514,96524,96534,96544,96554]
+	}
+]

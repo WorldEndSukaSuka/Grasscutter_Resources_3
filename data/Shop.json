@@ -1,0 +1,70 @@
+[
+  {
+    "shopId": 1004,
+    "items": [
+      {
+        "goodsId": 1004202,
+        "goodsItem": {
+          "id": 202,//商品
+          "count": 10000000//上架 单价卖出数量
+        },
+        "scoin": 1,
+        "buyLimit": 100,//限购
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99,
+        "costItemList": [
+          {
+            "id": 223,//货币
+            "count": 100//价格（单价）
+          }
+        ]
+      },
+      {
+        "goodsId": 10048006,
+        "goodsItem": {
+          "id": 220008,
+          "count": 1//上架 单价卖出数量
+        },
+        "costItemList": [],
+        "scoin": 200000,//魔拉
+        "hcoin": 1000,//原石
+        "mcoin": 1000,//结晶
+        "buyLimit": 1,//限购
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+      {
+        "goodsId": 10048033,
+        "goodsItem": {
+          "id": 108300,//商品
+          "count": 10//上架 单价卖出数量
+        },
+        "costItemList": [],
+        "scoin": 1000,//单价
+        "buyLimit": 50000,//限购
+        "beginTime": 1575129600,
+        "endTime": 2051193600,
+        "minLevel": 1,
+        "maxLevel": 99
+      },
+	  {
+	    "goodsId": 10048034,
+	    "goodsItem": {
+	      "id": 108123,//商品
+	      "count": 10//上架 单价卖出数量
+	    },
+	    "costItemList": [],
+	    "scoin": 1000,//单价
+	    "buyLimit": 50000,//限购
+	    "beginTime": 1575129600,
+	    "endTime": 2051193600,
+	    "minLevel": 1,
+	    "maxLevel": 99
+	  }
+    ]
+  }
+]
